@@ -1,1 +1,1 @@
-# DOO_Calculadora
+# Calculadora básica en Django
